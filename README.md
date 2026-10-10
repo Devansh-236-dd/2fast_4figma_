@@ -159,3 +159,4 @@ Static hosting works anywhere:
 * **GitHub Pages:** `npm run build`, then publish `dist/` (hash routing means no rewrite rules are needed).
 
 HTTPS is required for camera scanning.
+"# 2fast_4figma_" 
